@@ -98,6 +98,9 @@ this.sparkLine1.Markers.NegativePointColor = new BrushInfo(Color.Red);
 3. Restore NuGet packages.
 4. Build and run the project (`F5`).
 
+<img width="1919" height="1006" alt="Screenshot 2026-03-30 123227" src="https://github.com/user-attachments/assets/0ccb9be4-cc98-4c29-acbe-2ebfeac6296f" />
+
+
 ## References
 
 - [Syncfusion WinForms Sparkline Documentation](https://help.syncfusion.com/windowsforms/sparkline/gettingstarted)
